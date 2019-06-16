@@ -1,0 +1,357 @@
+# depslib dependency file v1.0
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal.c
+	"stm32f4xx_hal.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal.h
+	"stm32f4xx_hal_conf.h"
+
+1560698898 c:\em_projects\f407_ramdisk\inc\stm32f4xx_hal_conf.h
+	"stm32f4xx_hal_rcc.h"
+	"stm32f4xx_hal_exti.h"
+	"stm32f4xx_hal_gpio.h"
+	"stm32f4xx_hal_dma.h"
+	"stm32f4xx_hal_cortex.h"
+	"stm32f4xx_hal_adc.h"
+	"stm32f4xx_hal_can.h"
+	"stm32f4xx_hal_crc.h"
+	"stm32f4xx_hal_cryp.h"
+	"stm32f4xx_hal_dma2d.h"
+	"stm32f4xx_hal_dac.h"
+	"stm32f4xx_hal_dcmi.h"
+	"stm32f4xx_hal_eth.h"
+	"stm32f4xx_hal_flash.h"
+	"stm32f4xx_hal_sram.h"
+	"stm32f4xx_hal_nor.h"
+	"stm32f4xx_hal_nand.h"
+	"stm32f4xx_hal_pccard.h"
+	"stm32f4xx_hal_sdram.h"
+	"stm32f4xx_hal_hash.h"
+	"stm32f4xx_hal_i2c.h"
+	"stm32f4xx_hal_i2s.h"
+	"stm32f4xx_hal_iwdg.h"
+	"stm32f4xx_hal_ltdc.h"
+	"stm32f4xx_hal_pwr.h"
+	"stm32f4xx_hal_rng.h"
+	"stm32f4xx_hal_rtc.h"
+	"stm32f4xx_hal_sai.h"
+	"stm32f4xx_hal_sd.h"
+	"stm32f4xx_hal_mmc.h"
+	"stm32f4xx_hal_spi.h"
+	"stm32f4xx_hal_tim.h"
+	"stm32f4xx_hal_uart.h"
+	"stm32f4xx_hal_usart.h"
+	"stm32f4xx_hal_irda.h"
+	"stm32f4xx_hal_smartcard.h"
+	"stm32f4xx_hal_wwdg.h"
+	"stm32f4xx_hal_pcd.h"
+	"stm32f4xx_hal_hcd.h"
+	"stm32f4xx_hal_dsi.h"
+	"stm32f4xx_hal_qspi.h"
+	"stm32f4xx_hal_cec.h"
+	"stm32f4xx_hal_fmpi2c.h"
+	"stm32f4xx_hal_spdifrx.h"
+	"stm32f4xx_hal_dfsdm.h"
+	"stm32f4xx_hal_lptim.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_rcc.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_rcc_ex.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_def.h
+	"stm32f4xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stddef.h>
+
+1556627504 c:\em_projects\f407_ramdisk\drivers\cmsis\device\st\stm32f4xx\include\stm32f4xx.h
+	"stm32f405xx.h"
+	"stm32f415xx.h"
+	"stm32f407xx.h"
+	"stm32f417xx.h"
+	"stm32f427xx.h"
+	"stm32f437xx.h"
+	"stm32f429xx.h"
+	"stm32f439xx.h"
+	"stm32f401xc.h"
+	"stm32f401xe.h"
+	"stm32f410tx.h"
+	"stm32f410cx.h"
+	"stm32f410rx.h"
+	"stm32f411xe.h"
+	"stm32f446xx.h"
+	"stm32f469xx.h"
+	"stm32f479xx.h"
+	"stm32f412cx.h"
+	"stm32f412zx.h"
+	"stm32f412rx.h"
+	"stm32f412vx.h"
+	"stm32f413xx.h"
+	"stm32f423xx.h"
+	"stm32f4xx_hal.h"
+
+1556627504 c:\em_projects\f407_ramdisk\drivers\cmsis\device\st\stm32f4xx\include\stm32f407xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+
+1560699389 c:\em_projects\f407_ramdisk\drivers\cmsis\include\core_cm4.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\cmsis_version.h
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\cmsis_armcc.h
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\cmsis_armclang.h
+	<arm_compat.h>
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\cmsis_gcc.h
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\cmsis_iccarm.h
+	"iccarm_builtin.h"
+	<intrinsics.h>
+
+1556627523 c:\em_projects\f407_ramdisk\drivers\cmsis\include\mpu_armv7.h
+
+1556627504 c:\em_projects\f407_ramdisk\drivers\cmsis\device\st\stm32f4xx\include\system_stm32f4xx.h
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_rcc_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_exti.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_gpio.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_gpio_ex.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_gpio_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_dma.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_dma_ex.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_dma_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_cortex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_flash_ex.h"
+	"stm32f4xx_hal_flash_ramfunc.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash_ramfunc.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pwr.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_pwr_ex.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pwr_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_tim.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_tim_ex.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_tim_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pcd.h
+	"stm32f4xx_ll_usb.h"
+	"stm32f4xx_hal_pcd_ex.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_ll_usb.h
+	"stm32f4xx_hal_def.h"
+
+1556627722 c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pcd_ex.h
+	"stm32f4xx_hal_def.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_cortex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_dma.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_dma_ex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_exti.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash_ex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash_ramfunc.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_gpio.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pcd.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pcd_ex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pwr.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pwr_ex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_rcc.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_rcc_ex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_tim.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_tim_ex.c
+	"stm32f4xx_hal.h"
+
+1556627723 source:c:\em_projects\f407_ramdisk\drivers\stm32f4xx_hal_driver\src\stm32f4xx_ll_usb.c
+	"stm32f4xx_hal.h"
+
+1556627531 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\src\usbd_msc.c
+	"usbd_msc.h"
+
+1556627531 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\inc\usbd_msc.h
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1556627531 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\inc\usbd_msc_bot.h
+	"usbd_core.h"
+
+1556627531 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\inc\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1560698897 c:\em_projects\f407_ramdisk\inc\usbd_conf.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+
+1560698899 c:\em_projects\f407_ramdisk\inc\main.h
+	"stm32f4xx_hal.h"
+
+1556627532 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1556627532 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1556627531 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\inc\usbd_ctlreq.h
+	"usbd_def.h"
+
+1556627531 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\inc\usbd_msc_scsi.h
+	"usbd_def.h"
+
+1556627531 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\src\usbd_msc_bot.c
+	"usbd_msc_bot.h"
+	"usbd_msc.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1556627531 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\src\usbd_msc_data.c
+	"usbd_msc_data.h"
+
+1556627531 c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\inc\usbd_msc_data.h
+	"usbd_conf.h"
+
+1556627531 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\class\msc\src\usbd_msc_scsi.c
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_msc.h"
+	"usbd_msc_data.h"
+
+1556627532 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+
+1556627532 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\src\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1556627532 source:c:\em_projects\f407_ramdisk\middlewares\st\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1560698389 source:c:\em_projects\f407_ramdisk\src\main.c
+	"main.h"
+	"usb_device.h"
+
+1560698897 c:\em_projects\f407_ramdisk\inc\usb_device.h
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+	"usbd_def.h"
+
+1560698898 source:c:\em_projects\f407_ramdisk\src\stm32f4xx_hal_msp.c
+	"main.h"
+
+1560698898 source:c:\em_projects\f407_ramdisk\src\stm32f4xx_it.c
+	"main.h"
+	"stm32f4xx_it.h"
+
+1560698898 c:\em_projects\f407_ramdisk\inc\stm32f4xx_it.h
+
+1556627505 source:c:\em_projects\f407_ramdisk\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1560698897 source:c:\em_projects\f407_ramdisk\src\usb_device.c
+	"usb_device.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_msc.h"
+	"usbd_storage_if.h"
+
+1560698897 c:\em_projects\f407_ramdisk\inc\usbd_desc.h
+	"usbd_def.h"
+
+1560698898 c:\em_projects\f407_ramdisk\inc\usbd_storage_if.h
+	"usbd_msc.h"
+
+1560698897 source:c:\em_projects\f407_ramdisk\src\usbd_conf.c
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+	"usbd_def.h"
+	"usbd_core.h"
+
+1560698898 source:c:\em_projects\f407_ramdisk\src\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1560716874 source:c:\em_projects\f407_ramdisk\src\usbd_storage_if.c
+	"usbd_storage_if.h"
+
+1556627504 source:c:\em_projects\f407_ramdisk\startup_stm32f407xx.s
+
